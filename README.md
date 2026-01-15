@@ -1,3 +1,8 @@
+# ML Mini Projects
+
+A curated collection of machine learning mini-projects demonstrating end-to-end workflows including data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation using Python and scikit-learn.
+
+
 ## 📂 Repository Structure
 
 
