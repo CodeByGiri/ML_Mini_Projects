@@ -11,35 +11,29 @@ A curated collection of machine learning mini-projects demonstrating end-to-end 
 
 ML-Mini-Projects/
 
+ML_Mini_Projects
 │
-
-├── Iris-Classification/
-
-│   ├── Iris\_Flower\_Classification.ipynb
-
-│   └── README.md
-
+├── Iris-Classification
+│ ├── Iris_Flower_Classification.ipynb
+│ └── README.md
 │
-
-├── House-Price-Prediction/
-
-│   ├── HousePricePrediction.ipynb
-
-│   └── README.md
-
+├── Titanic-Survival-Prediction
+│ ├── TitanicSurvivalPrediction.ipynb
+│ └── README.md
 │
-
-├── Titanic-Survival-Prediction/
-
-│   ├── TitanicSurvivalPrediction.ipynb
-
-│   └── README.md
-
+├── House-Price-Prediction
+│ ├── HousePricePrediction.ipynb
+│ ├── Housing.csv
+│ └── README.md
 │
+├── Handwritten-Digit-Recognition
+│ ├── Handwritten_Digit_Recognition.ipynb
+│ └── README.md
+│
+└── README.md
 
 ├── requirements.txt
 
-└── README.md
 
 ```
 
