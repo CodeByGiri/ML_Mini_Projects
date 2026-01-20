@@ -31,7 +31,7 @@ ML_Mini_Projects
 │ └── README.md
 │
 └── README.md
-
+│
 ├── requirements.txt
 
 
