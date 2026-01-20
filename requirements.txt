@@ -1,5 +1,6 @@
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
+## 🛠️ Tools & Libraries
+- Python
+- NumPy, Pandas
+- Matplotlib, Seaborn
+- Scikit-learn
+- TensorFlow / Keras (for ANN project)
