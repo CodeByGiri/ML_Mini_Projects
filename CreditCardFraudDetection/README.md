@@ -1,14 +1,14 @@
-\# Credit Card Fraud Detection
+# Credit Card Fraud Detection
 
 
 
-\## Description
+## Description
 
 This project focuses on identifying fraudulent credit card transactions using supervised machine learning techniques on a highly imbalanced dataset.
 
 
 
-\## Dataset
+## Dataset
 
 The Credit Card Fraud Detection dataset was sourced from Kaggle.
 
@@ -22,23 +22,23 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 
 
-\## Models Used
+## Models Used
 
-\- Logistic Regression (with class weighting)
+- Logistic Regression (with class weighting)
 
-\- Random Forest Classifier
+- Random Forest Classifier
 
 
 
-\## Key Concepts
+## Key Concepts
 
-\- Handling imbalanced datasets
+- Handling imbalanced datasets
 
-\- Feature scaling
+- Feature scaling
 
-\- Class weighting
+- Class weighting
 
-\- Precision, Recall, F1-score, ROC-AUC evaluation
+- Precision, Recall, F1-score, ROC-AUC evaluation
 
 
 
